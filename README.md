@@ -18,3 +18,5 @@ DEPENDENCIAS
 Bootstrap + SASS para el estilo general de la app.
 react-icons para iconos
 MOCKAPI para la generación del Endpoint donde se guardan datos de los proyectos destacados
+JQUERY para leer los datos del archivo JSON
+AXIOS para conectar con la APi
