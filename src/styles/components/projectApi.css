@@ -1,0 +1,138 @@
+.card-style {
+  margin: -8px -3px -4px -3px;
+}
+
+.button-projects {
+  border-radius: 2px;
+  margin-top: 3rem;
+  padding: 10px;
+  width: 150px;
+}
+
+.project-1 {
+  background-color: #18265a;
+  height: 500px;
+}
+
+.project-1 .card-img-project {
+  background-color: #18265a;
+  height: 448px;
+  margin: 50px 0px 0px 0px;
+  width: auto;
+}
+
+.project-1 .button-projects {
+  background-color: #fff;
+  color: #18265a;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.project-1 .title-color {
+  color: #fff;
+}
+
+.project-1 .text-color {
+  color: white;
+  margin-bottom: 40px;
+}
+
+.project-1 .card-style {
+  background-color: #18265a;
+  margin: 0 auto;
+  border-color: #18265a;
+}
+
+.project-1 .card-body-style {
+  margin: 80px 0px 50px 0px;
+}
+
+.project-2 {
+  height: 40rem;
+  background-color: #be0024;
+  height: 500px;
+}
+
+.project-2 .card-img-project {
+  background-color: #be0024;
+  height: 448px;
+  margin: 50px 0px 0px 0px;
+  width: auto;
+}
+
+.project-2 .button-projects {
+  background-color: #fff;
+  color: #be0024;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.project-2 .title-color {
+  color: #fff;
+}
+
+.project-2 .text-color {
+  color: white;
+  margin-bottom: 40px;
+}
+
+.project-2 .card-style {
+  background-color: #be0024;
+  margin: 0 auto;
+  border-color: #be0024;
+}
+
+.project-2 .card-body-style {
+  margin: 80px 0px 50px 0px;
+}
+
+.project-3 {
+  height: 40rem;
+  background-color: #fff;
+  height: 500px;
+}
+
+.project-3 .card-img-project {
+  background-color: #fff;
+  height: 448px;
+  margin: 50px 0px 0px 0px;
+  width: auto;
+}
+
+.project-3 .card-img-left {
+  height: 50px;
+  width: auto;
+}
+
+.project-3 .button-projects {
+  background-color: #004b8e;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.project-3 .title-color {
+  color: black;
+}
+
+.project-3 .text-color {
+  color: black;
+  margin-bottom: 40px;
+}
+
+.project-3 .card-style {
+  background-color: #fff;
+  margin: 0 auto;
+  border-color: #fff;
+}
+
+.project-3 .card-body-style {
+  margin: 80px 0px 50px 0px;
+}
+
+.card-img-left {
+  height: 100px;
+  margin-bottom: 3rem;
+  border-bottom: #fff solid;
+}
+/*# sourceMappingURL=projectApi.css.map */

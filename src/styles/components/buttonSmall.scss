@@ -1,0 +1,17 @@
+
+.button-sm{
+    width: 200px;
+    height: 35px;
+
+    .button-sm-light{
+        background-color:#7aca03;
+        color: white;
+    }
+    .button-sm-dark{
+        background-color:#000000;
+        color: #7aca03;
+        border-style: solid;
+        
+        border-color: #2d4a01;
+    }
+}

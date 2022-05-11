@@ -1,0 +1,13 @@
+.final-button {
+  background: #1f2329;
+  opacity: 1;
+  overflow: hidden;
+  height: 230px;
+}
+
+.icon-style {
+  position: absolute;
+  margin-top: 210px;
+  z-index: 1;
+}
+/*# sourceMappingURL=finalButton.css.map */

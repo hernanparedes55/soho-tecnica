@@ -1,0 +1,107 @@
+{
+  "main": {
+    "textHeader1": "Nos especializamos en",
+    "textHeader2": "interfaces digitales que los usuarios aman",
+    "aboutTitle": "17 años de experiencia en pos de tu proyecto",
+    "aboutText": "Especializados desde 1996 en usabilidad, experiencia del usuario (UX) y diseño de experiencias de proyectos digitales. Aportamos\n \n estrategia e innovación centrada en el usuario y los objetivos de negocio de tu proyecto. Cotrabajando mejoramos tu tasa de\n conversión, KPI´s, ROI y los resultados de tu actual publicidad PPC (pay per click).",
+    "testimonialTitle": "Lo que dicen nuestros clientes",
+    "testimonialsImg1": "testimonial-image-1.jpg",
+    "testimonialsName1": "Cristobal Fernandez - CEO Copec",
+    "testimonialsImg2":"testimonial-image-2.jpg",
+    "testimonialsName2": "Maria Paz Segers - Lead Digital BBVA",
+    "testimonialsImg3":"testimonial-image-3.jpg",
+    "testimonialsName3": "Renato Bascuñán - Lead Digital Chilena",
+    "testimonialsText":"Aenean imperdiet. Etiam ultricies nisi vel augue.",
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "projects": {
+    "projectsTitle": "Proyectos destacados",
+    "projectsDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sit amet velit lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus varius lectus id ultricies eleifend. Etiam in neque mauris."
+   },
+  "portfolio": {
+    "portfolio": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  },
+  "cards": {
+        "title1": "Estrategia, usabilidad & ux",
+        "text1": "Te ofrecemos excelente usabilidad y experiencia del usuario en tu proyecto, junto a una visión innovadora",
+      
+        "title2": "Mejoramos la experiencia",
+        "text2": "Tangibilizamos tu proyecto digital a través de un diseño centrado en el usuario y técnicas avanzadas",
+      
+      
+        "title3": "Medición continua de objetivos",
+        "text3": "Implementación, testing con usuarios y medición continua son necesarias para garantizar el éxito de tu proyecto"
+      }
+    
+  }
+

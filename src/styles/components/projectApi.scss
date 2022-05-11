@@ -1,0 +1,136 @@
+.card-style{
+    margin: -8px -3px -4px -3px
+}
+
+.button-projects{
+    border-radius: 2px;
+    margin-top: 3rem;
+    padding: 10px;
+    width: 150px;
+}
+
+
+.project-1{
+            background-color: #18265a;
+            height: 500px;
+            .card-img-project{
+                background-color: #18265a;
+                height: 448px;
+                margin: 50px 0px 0px 0px;
+                width: auto;
+            }
+            .button-projects{
+                background-color: #fff;
+                color: #18265a;
+                text-decoration: none;
+                font-weight: 700;
+            }
+            .title-color{
+                color: #fff;
+            }
+            .text-color{
+                color: white;
+                margin-bottom: 40px;
+            }
+            .card-style{
+                background-color: #18265a;
+                margin: 0 auto;
+                border-color: #18265a;
+            }
+            .card-body-style{
+                margin: 80px 0px 50px 0px;
+            }
+        }
+    
+.project-2{
+        height: 40rem;
+        background-color: #be0024;
+        height: 500px;
+        .card-img-project{
+            background-color: #be0024;
+            height: 448px;
+            margin: 50px 0px 0px 0px;
+            width: auto;
+        }
+        .button-projects{
+            background-color: #fff;
+            color: #be0024;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        .title-color{
+            color: #fff;
+        }
+        .text-color{
+            color: white;
+            margin-bottom: 40px;
+        }
+        .card-style{
+            background-color: #be0024;
+            margin: 0 auto;
+            border-color: #be0024
+        }
+        .card-body-style{
+            margin: 80px 0px 50px 0px;
+        }
+    }
+
+.project-3{
+    height: 40rem;
+    background-color: #fff;
+    height: 500px;
+    .card-img-project{
+        background-color: #fff;
+        height: 448px;
+        margin: 50px 0px 0px 0px;
+        width: auto;
+    }
+    .card-img-left{
+    height:50px;
+    width: auto;
+    }
+    .button-projects{
+        background-color: #004b8e;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 700;
+    }
+    .title-color{
+        color: black;
+    }
+    .text-color{
+        color: black;
+        margin-bottom: 40px;
+    }
+    .card-style{
+        background-color: #fff;
+        margin: 0 auto;
+        border-color:#fff;
+    }
+    .card-body-style{
+        margin: 80px 0px 50px 0px;
+    }
+}
+
+.card-img-left{
+    height:100px;
+    margin-bottom: 3rem;
+    border-bottom: #fff solid;
+}
+
+
+// .card-body-projects{
+//     display: flex;
+//     flex-direction: column;
+//     align-items: flex-start;
+//     justify-content: center;
+//     align-content: center;    
+// }
+
+// .col-lg-4{
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+//     justify-content: center;
+// }
+
