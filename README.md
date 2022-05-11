@@ -9,6 +9,9 @@ Está compuesto por las siguientes secciones:
 -PROYECTOS DESTACADOS
 -TESTIMONIOS DE CLIENTES
 
+PROYECTO CREADO CON
+npm init vite@latest
+
 INSTALACIÓN
 Se debe clonar el repositorio
 Ejecutar en el terminal "npm i"
