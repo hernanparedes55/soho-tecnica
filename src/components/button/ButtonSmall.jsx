@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
-import '../../styles/components/buttonSmall.scss';
+import '../../styles/custom.scss';
 
 const ButtonSmall = (props) => {
 

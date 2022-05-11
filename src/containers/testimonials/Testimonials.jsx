@@ -1,6 +1,6 @@
 import React from 'react';
 import Titulo from '../../components/Titulo/Titulo';
-import '../../styles/containers/testimonials.scss'
+import '../../styles/custom.scss';
 
 
 const Testimonials = (props) => {
@@ -10,11 +10,11 @@ const Testimonials = (props) => {
       }
 
   return (
-    <section className="testimonials">
+    <div id="testimonials" className="testimonials">
       <div className="container" style={{marginTop:"100px"}}>
             <Titulo title={title}/>
          </div>
-   </section>
+   </div>
   )
 }
 

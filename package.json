@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "sass": "sass src/styles:build/css"
+    "sass": "sass src/styles:build/css",
+    "css":"purgecss --css build/css/app.css --content index.html -o build/css/reducido.css"
   },
   "dependencies": {
     "axios": "^0.27.2",

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/components/projects.scss';
+import '../../styles/custom.scss';
 import Titulo from '../../components/Titulo/Titulo';
 
 const Projects = (props) => {
@@ -7,20 +7,15 @@ const Projects = (props) => {
     if(props.data){
         var title = props.data.projectsTitle;
         var text = props.data.projectsDescription;
-
         }
   
     return (
-      <section id="projects" >
-        <div className="container" style={{marginTop:"80px"}}>
-  
+      <div id="projects" className="projects" >
+        <div className="container projects-margin-top">
               <Titulo title={title}/>
                 <p className='container text-center col-12 col-md-9'>{text}</p>
-              
            </div>
-        
-  
-     </section>
+      </div>
     )
   }
 

@@ -10,11 +10,15 @@ import TestimonialsCards from './containers/testimonials/TestimonialsCards';
 import Footer from './containers/footer/Footer';
 import FinalButton from './containers/final-button/FinalButton';
 
+// import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+
+
 function App() {
 
   const [foo, setFoo] = useState('bar');
   const [resumeData, setResumeData] = useState({})
 
+  //Busco y extraigo los valores del json y los guardo en "resumeData".
   useEffect(() => {
     const getResumeData = () =>{
         $.ajax({
@@ -34,7 +38,7 @@ function App() {
     
   }, []);
   
-  console.log(resumeData)
+  // console.log(resumeData)
 
   return (
     <div className='App'>
@@ -42,7 +46,6 @@ function App() {
     <Header data={resumeData.main}/>
     <Nosotros data={resumeData.main}/>
     <Services data={resumeData.cards}/>
-    {/* {console.log("le paso cards", resumeData.cards)} */}
     <Projects data={resumeData.projects}/>
     <ProjectsListContainer />
     <Testimonials data={resumeData.main}/>

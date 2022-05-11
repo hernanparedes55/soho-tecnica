@@ -6,9 +6,12 @@ import Spinner from 'react-bootstrap/Spinner';
 
 const ProjectsList = () => {
 
+    //ESTADO DONDE GUARDO LOS DATOS TRAIDOS DEL ENDPOINT
     const [projects, setProjects] = useState([])
+
     const [loading, setLoading]=useState(true)
 
+    //LLAMADO A LA API CON AXIOS Y SETEO LOS DATOS EN PROJECTS
     useEffect(() => {
         const getProjects = async () => {
             const url = `https://627961a64a5ef80e2c08fcc0.mockapi.io/projects`;
@@ -20,13 +23,13 @@ const ProjectsList = () => {
         getProjects();
     }, [])
 
-    console.log("projects:", projects);
+    // console.log("projects:", projects);
 
+    //MAPEO EL ARREGLO Y PASO POR PROPS A PROJECTAPI
   return (
 
     <div>
         {loading && <Spinner animation="border" style={{color: "rgba(204,100,28,100)"}} />} 
-
 
         {!loading && projects.map(project => (
             <div key={project.id}>

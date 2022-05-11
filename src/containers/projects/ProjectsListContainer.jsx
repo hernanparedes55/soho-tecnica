@@ -3,9 +3,8 @@ import ProjectsList from '../../components/projects/ProjectsList'
 
 const ProjectsListContainer = () => {
   return (
-    <div id="portfolio">
+    <div classname="portfolio">
       <ProjectsList
-
       />
     </div>
   )

@@ -1,8 +1,9 @@
 import React from 'react';
 import ButtonSmall from '../button/ButtonSmall';
-import '../../styles/components/conference.scss';
+import '../../styles/custom.scss';
 
 
+//COMPONENTE PARA MOSTRAR ALERTAS DE EVENTOS Y CONFERENCIAS
 const Conference = (props) => {
     const{location, topic, name} = props
   return (

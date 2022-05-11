@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
-import '../../styles/components/buttonLarge.scss';
+import '../../styles/custom.scss';
 
 const ButtonLarge = (props) => {
 

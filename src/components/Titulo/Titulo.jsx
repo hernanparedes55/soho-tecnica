@@ -1,6 +1,7 @@
 import React from 'react'
-import '../../styles/components/titulo.scss'
+import '../../styles/custom.scss';
 
+//COMPONENTE PARA TITULOS PRINCIPALES
 const Titulo = (props) => {
     
   return (
