@@ -23,3 +23,6 @@ react-icons para iconos
 MOCKAPI para la generación del Endpoint donde se guardan datos de los proyectos destacados
 JQUERY para leer los datos del archivo JSON
 AXIOS para conectar con la APi
+
+DEPLOY
+https://genuine-bublanina-8268f1.netlify.app/
